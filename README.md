@@ -8,7 +8,9 @@ The project aims to explore historical trends in baby names, providing insights 
 
 ## Dataset
 
-The dataset (`names_by_birth_year.csv`) contains information on the year of birth, name, gender of the child, and the number of children born with that name in a given year. It is sourced from [insert source].
+The dataset (`names_by_birth_year.csv`) contains information on the year of birth, name, gender of the child, and the number of children born with that name in a given year. It is sourced from Kaggle.
+You can access the dataset from the following link: [names_by_birth_year.csv](https://docs.google.com/spreadsheets/d/1DFwyOwmPjh7oFifn6QTdeGw3M1gRRkJait-QwYNn0Fg/edit#gid=705174227)
+
 
 ## Installation
 
